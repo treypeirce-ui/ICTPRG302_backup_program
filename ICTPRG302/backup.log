@@ -1,0 +1,59 @@
+2026-03-31 05:34:38,246 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-163438.txt was successfully backed up
+2026-03-31 05:35:04,901 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-163504.txt was successfully backed up
+2026-03-31 05:35:32,405 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-163532.txt was successfully backed up
+2026-03-31 05:37:21,615 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-163721.txt was successfully backed up
+2026-03-31 05:37:27,789 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-163727.txt was successfully backed up
+2026-03-31 05:37:30,327 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-163730 was successfully backed up
+2026-03-31 05:37:32,783 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-163732 was successfully backed up
+2026-03-31 05:37:32,961 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 05:54:40,408 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-165440.txt was successfully backed up
+2026-03-31 06:03:01,665 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260331-170301.txt was successfully backed up
+2026-03-31 06:03:07,877 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170307 was successfully backed up
+2026-03-31 06:03:09,084 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170309 was successfully backed up
+2026-03-31 06:03:09,303 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 06:04:04,825 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170404 was successfully backed up
+2026-03-31 06:04:05,058 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170405 was successfully backed up
+2026-03-31 06:04:11,900 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170411 was successfully backed up
+2026-03-31 06:04:12,129 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170412 was successfully backed up
+2026-03-31 06:04:14,864 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170414 was successfully backed up
+2026-03-31 06:04:15,265 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170415 was successfully backed up
+2026-03-31 06:04:15,450 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 06:04:57,545 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170457 was successfully backed up
+2026-03-31 06:04:57,749 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 06:04:57,916 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 06:04:58,197 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170458 was successfully backed up
+2026-03-31 06:06:02,022 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-170602 was successfully backed up
+2026-03-31 06:06:02,214 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 06:14:22,207 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-171422 was successfully backed up
+2026-03-31 06:14:42,985 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-171442 was successfully backed up
+2026-03-31 06:14:54,569 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-171454 was successfully backed up
+2026-03-31 06:15:08,288 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-171508 was successfully backed up
+2026-03-31 06:15:21,814 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-171521 was successfully backed up
+2026-03-31 07:01:31,418 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-180131 was successfully backed up
+2026-03-31 07:19:27,338 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-181927 was successfully backed up
+2026-03-31 08:46:40,135 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-194640 was successfully backed up
+2026-03-31 08:46:41,892 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-194641 was successfully backed up
+2026-03-31 08:46:42,042 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-194642 was successfully backed up
+2026-03-31 08:46:43,021 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-194643 was successfully backed up
+2026-03-31 08:46:43,620 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 08:46:49,863 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-194649 was successfully backed up
+2026-03-31 09:01:38,338 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-200138 was successfully backed up
+2026-03-31 09:01:41,640 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-200141 was successfully backed up
+2026-03-31 09:01:41,781 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 09:05:35,296 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-200535 was successfully backed up
+2026-03-31 09:05:36,353 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-200536 was successfully backed up
+2026-03-31 09:05:36,542 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 09:09:54,400 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-200954 was successfully backed up
+2026-03-31 09:09:54,585 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 09:14:46,210 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-201446 was successfully backed up
+2026-03-31 09:14:48,863 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-201448 was successfully backed up
+2026-03-31 09:14:49,034 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-201449 was successfully backed up
+2026-03-31 09:14:50,536 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-201450 was successfully backed up
+2026-03-31 09:14:50,717 - ERROR - /home/ec2-user/environment/ICTPRG302/Files was unable to backup as file/directory already exists
+2026-03-31 09:14:54,615 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260331-201454 was successfully backed up
+2026-04-04 09:22:06,771 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260404-202206.txt was successfully backed up
+2026-04-04 09:22:19,568 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.txt was unable to backup as file/directory could not be found
+2026-04-04 09:34:45,716 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.txt was unable to backup as file/directory could not be found
+2026-05-28 08:25:09,068 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260528-182509.txt was successfully backed up
+2026-05-28 08:29:40,556 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260528-182940.txt was successfully backed up
+2026-07-10 00:39:31,775 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Important File_20260710-103931.docx was successfully backed up
