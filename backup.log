@@ -1,0 +1,11 @@
+2026-07-22 05:41:42,130 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260722-154142.txt was successfully backed up
+2026-07-22 05:41:46,948 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260722-154146.pdf was successfully backed up
+2026-07-22 05:41:50,370 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.docx was unable to backup as file/directory could not be found
+2026-07-24 03:05:35,629 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.docx was unable to backup as file/directory could not be found
+2026-07-24 03:06:01,609 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260724-130601.txt was successfully backed up
+2026-07-24 03:06:09,161 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260724-130609.pdf was successfully backed up
+2026-07-24 03:06:14,666 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.docx was unable to backup as file/directory could not be found
+2026-07-24 03:11:28,607 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.docx was unable to backup as file/directory could not be found
+2026-07-24 03:13:38,742 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/ImportantFile_20260724-131338.txt was successfully backed up
+2026-07-24 03:13:58,870 - ERROR - /home/ec2-user/environment/ICTPRG302/Files/ImportantFile.docx was unable to backup as file/directory could not be found
+2026-07-24 03:14:56,942 - INFO - /home/ec2-user/environment/ICTPRG302/Backups/Files_20260724-131456 was successfully backed up

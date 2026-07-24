@@ -7,30 +7,50 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 import logging
 
-#Set timezone to Melbourne & Set time stamp variable with YYYYMMDD-HHMMSS format
+Email = ""
+
+###################
+#Sets timezone to Melbourne & time stamp variable with YYYYMMDD-HHMMSS format
+###################
 TimeZone = ZoneInfo("Australia/Melbourne")
 TimeStamp = datetime.now(TimeZone).strftime("%Y%m%d-%H%M%S")
 
-#Set path root to cut down on writing
+###################
+#Sets path root to cut down on writing
+###################
 Root = "/home/ec2-user/environment/ICTPRG302"
 
-#Logging config
+###################
+#Configures logs' format & location
+###################
 logging.basicConfig(
     filename='backup.log',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
 )
 
-Email = ""
+###################
+#SMTP Emailing Config
+###################
+smtp = {"enabled": True,
+        "sender": "bek.j.jones@gmail.com",          # gmail.com sender
+        "recipient": "randerson@sunitafe.edu.au",       # gmail.com recipient
+        "server": "smtp.gmail.com",             # SMTP server
+        "port": 587,                            # SMTP port
+        "user": "bek.j.jones@gmail.com",            # gmail.com user
+        "password": "gl0rygl0ry2GOD"}     # gmail.com password
 
-#SMTP config
-smtp = {"sender": "30028720@students.sunitafe.edu.au",
-        "recipient": "30028720@students.sunitafe.edu.au",
-        "server": "smtp.elasticemail.com", 
-        "port": 2525, 
-        "user": "30028720@students.sunitafe.edu.au", 
-        "password": "BECA310CB4C1743600B79E1EB5C3C3466EC1"} 
+# ORIGINAL email code
+#smtp = {"sender": "30028720@students.sunitafe.edu.au",
+#        "recipient": "randerson@sunitafe.edu.au",
+#        "server": "smtp.elasticemail.com", 
+#        "port": 2525, 
+#        "user": "30028720@students.sunitafe.edu.au", 
+#        "password": "BECA310CB4C1743600B79E1EB5C3C3466EC1"} 
 
+###################
+#Defines multiple differnet backup jobs & error hnadling
+###################
 #.txt file backup
 def job1():
     global Email
